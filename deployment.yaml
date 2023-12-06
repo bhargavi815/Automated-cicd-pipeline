@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: bhargavi1/project:v2.0.0
+          image: bhargavi815/pipeline:v2.0.0
           ports:
             - containerPort: 8080
 ---
