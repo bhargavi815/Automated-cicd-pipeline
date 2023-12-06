@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: app1
-          image: devopsvmr/image1:v1.0.4
+          image: bhargavi7731/project:v2.0.0
           ports:
             - containerPort: 8080
 ---
